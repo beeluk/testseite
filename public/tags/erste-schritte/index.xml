@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Erste Schritte on GedankenSplitter</title>
+    <link>/tags/erste-schritte/</link>
+    <description>Recent content in Erste Schritte on GedankenSplitter</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/erste-schritte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein erster Blogpost</title>
+      <link>/posts/mein-erster-blogpost/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/mein-erster-blogpost/</guid>
+      <description>&lt;p&gt;Willkommen zu meinem ersten Blogpost! Hier teile ich meine Gedanken über verschiedene Themen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

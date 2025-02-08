@@ -1,0 +1,27 @@
+baseURL = "/"
+title = "GedankenSplitter"
+theme = "PaperMod"
+languageCode = "de-DE"
+
+[pagination]
+pagerSize = 5
+
+
+[params]
+  homeInfoParams = { Title = "Willkommen bei GedankenSplitter", Content = "Ein Blog über meine Gedanken und Ideen." }
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "Über mich"
+    url = "/about/"
+    weight = 20
