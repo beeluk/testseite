@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>GedankenSplitter</title>
-    <link>/</link>
+    <link>https://beeluk.github.io/testseite/</link>
     <description>Recent content on GedankenSplitter</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>de-DE</language>
     <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beeluk.github.io/testseite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mein erster Blogpost</title>
-      <link>/posts/mein-erster-blogpost/</link>
+      <link>https://beeluk.github.io/testseite/posts/mein-erster-blogpost/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/mein-erster-blogpost/</guid>
+      <guid>https://beeluk.github.io/testseite/posts/mein-erster-blogpost/</guid>
       <description>&lt;p&gt;Willkommen zu meinem ersten Blogpost! Hier teile ich meine Gedanken über verschiedene Themen.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>/posts/salutogen-f%C3%BChren---gesund-f%C3%BChren/</link>
+      <link>https://beeluk.github.io/testseite/posts/salutogen-f%C3%BChren---gesund-f%C3%BChren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/salutogen-f%C3%BChren---gesund-f%C3%BChren/</guid>
+      <guid>https://beeluk.github.io/testseite/posts/salutogen-f%C3%BChren---gesund-f%C3%BChren/</guid>
       <description>&lt;h1 id=&#34;salutogen-führen---gesund-führen&#34;&gt;Salutogen führen - Gesund führen&lt;/h1&gt;
 &lt;p&gt;#02-Areale/Gesundheitsförderung
 #02-Areale/Personalführung
