@@ -1,6 +1,11 @@
-# Salutogen führen - Gesund führen
-#02-Areale/Gesundheitsförderung
-#02-Areale/Personalführung
+---
+title: "Salutogen führen - Gesund führen"
+date: 2021-02-08
+draft: false
+tags: ["Gesundheit"]
+categories: ["Allgemein", "Führen"]
+---
+
 Salutogen führen bedeutet, die psychische Widerstandskraft (Resilienz) der Mitarbeitenden zu stärken. Doch was ist Resilienz genau? Wer hat sie – wer nicht? Und was hat das mit Führung zu tun? Führungskräfte stehen vor vielen Herausforderungen, eine davon ist salutogen zu führen und die psychische Gesundheit der Mitarbeiter zu schützen.
 
 ### Salutogenese
