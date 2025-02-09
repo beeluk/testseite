@@ -1,4 +1,4 @@
-baseURL = "https://benevolent-faun-0a1399.netlify.app/"
+baseURL = "https://gedankenksplitter.netlify.app"
 title = "GedankenSplitter"
 theme = "PaperMod"
 languageCode = "de-DE"
@@ -13,7 +13,7 @@ pagerSize = 5
 [params]
   homeInfoParams = { Title = "Willkommen bei GedankenSplitter", Content = "Ein Blog über meine Gedanken und Ideen." }
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowToc = true
   ShowBreadCrumbs = true
 
