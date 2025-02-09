@@ -2,6 +2,8 @@ baseURL = "https://gedankenksplitter.netlify.app/"
 title = "GedankenSplitter"
 theme = "PaperMod"
 languageCode = "de-DE"
+relativeURLs = true
+uglyURLs = false
 
 [build]
   command = "hugo --gc --minify"
