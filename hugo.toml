@@ -1,4 +1,4 @@
-baseURL = "https://gedankenksplitter.netlify.app/"
+baseURL = "https://gedankensplitter.netlify.app/"
 title = "GedankenSplitter"
 theme = "PaperMod"
 languageCode = "de-DE"
