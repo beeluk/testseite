@@ -3,6 +3,9 @@ title = "GedankenSplitter"
 theme = "PaperMod"
 languageCode = "de-DE"
 
+[build]
+  command = "hugo --gc --minify"
+
 [pagination]
 pagerSize = 5
 
