@@ -1,4 +1,4 @@
-baseURL = "https://beeluk.github.io/testseite/"
+baseURL = "https://benevolent-faun-0a1399.netlify.app/"
 title = "GedankenSplitter"
 theme = "PaperMod"
 languageCode = "de-DE"
